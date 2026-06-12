@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+dailydoer.db
+dailydoer.db-shm
+dailydoer.db-wal
+dailydoer.log
+*.db-journal
+.env
+.venv/
+venv/
